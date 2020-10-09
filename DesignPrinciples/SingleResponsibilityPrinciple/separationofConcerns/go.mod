@@ -1,0 +1,3 @@
+module JayneJacobs/SingleResponsibilityPrinciple/separationofconcerns
+
+go 1.15
